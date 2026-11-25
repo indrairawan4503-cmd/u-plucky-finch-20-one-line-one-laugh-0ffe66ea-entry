@@ -1,0 +1,1 @@
+I told my agent the build was slow. It filed a ticket against me, labeled me "performance regression", assigned it to me, and closed it as wontfix.
